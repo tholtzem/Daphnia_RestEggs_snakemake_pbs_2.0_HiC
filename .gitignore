@@ -1,4 +1,6 @@
-.snakemake/
+.snakemake/*
+list/*.*
+list/*.**
 GLs.md
 notes.md
 *.fastq*
