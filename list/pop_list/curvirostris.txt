@@ -1,8 +1,0 @@
-realigned/A1.bb.RAPID.realigned.bam
-realigned/CHH6.bb.RAPID.realigned.bam
-realigned/E48.bb.RAPID.realigned.bam
-realigned/S37101.bb.RAPID.realigned.bam
-realigned/S37103.bb.RAPID.realigned.bam
-realigned/S3R21.bb.RAPID.realigned.bam
-realigned/S63.bb.RAPID.realigned.bam
-realigned/Siegen.bb.RAPID.realigned.bam

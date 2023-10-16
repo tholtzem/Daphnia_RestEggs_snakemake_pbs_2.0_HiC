@@ -1,9 +1,0 @@
-realigned/BIEL4.bb.RAPID.realigned.bam
-realigned/BIEL8.bb.RAPID.realigned.bam
-realigned/CUC33.bb.RAPID.realigned.bam
-realigned/Eva11.bb.RAPID.realigned.bam
-realigned/MikolaskjeIsofB.bb.RAPID.realigned.bam
-realigned/SIHL4.bb.RAPID.realigned.bam
-realigned/Sihl7.bb.RAPID.realigned.bam
-realigned/TsBr.bb.RAPID.realigned.bam
-realigned/ULCC2.bb.RAPID.realigned.bam
