@@ -1,0 +1,8 @@
+realigned/54067_ID1725_48-B-91S_S10_L001.realigned.bam
+realigned/54068_ID1725_49-B-93S_S11_L001.realigned.bam
+realigned/54064_ID1725_41-B-75S_S7_L001.realigned.bam
+realigned/54092_ID1725_47-B-88A_S35_L001.realigned.bam
+realigned/54117_ID1725_44-B-81S_S60_L001.realigned.bam
+realigned/54066_ID1725_45-B-86B_S9_L001.realigned.bam
+realigned/54076_ID1725_1-B-6S_S19_L001.realigned.bam
+realigned/54091_ID1725_46-B-87S_S34_L001.realigned.bam

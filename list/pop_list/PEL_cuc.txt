@@ -1,0 +1,8 @@
+realigned/79058_ID2350_34-DC24_S11_L001.realigned.bam
+realigned/79059_ID2350_31-DC8_S12_L001.realigned.bam
+realigned/79060_ID2350_24-DC21_S13_L001.realigned.bam
+realigned/79061_ID2350_2-DC15_S14_L001.realigned.bam
+realigned/79081_ID2350_22-DC29_S34_L001.realigned.bam
+realigned/79082_ID2350_20-DC13_S35_L001.realigned.bam
+realigned/79083_ID2350_28-DC36_S36_L001.realigned.bam
+realigned/79084_ID2350_19-DC14_S37_L001.realigned.bam

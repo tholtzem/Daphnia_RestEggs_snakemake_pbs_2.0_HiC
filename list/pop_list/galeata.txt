@@ -1,0 +1,9 @@
+realigned/AMM66.bb.RAPID.realigned.bam
+realigned/ENDI44.bb.RAPID.realigned.bam
+realigned/GAR24.bb.RAPID.realigned.bam
+realigned/GRE1408.bb.RAPID.realigned.bam
+realigned/ISEO86.bb.RAPID.realigned.bam
+realigned/SEGR196.bb.RAPID.realigned.bam
+realigned/ULCN22.bb.RAPID.realigned.bam
+realigned/VARE249.bb.RAPID.realigned.bam
+realigned/ZUGE2108.bb.RAPID.realigned.bam

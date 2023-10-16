@@ -1,0 +1,7 @@
+realigned/BRZ7.bb.RAPID.realigned.bam
+realigned/GAR7.bb.RAPID.realigned.bam
+realigned/MAGG229.bb.RAPID.realigned.bam
+realigned/MS1.bb.RAPID.realigned.bam
+realigned/NEUE0208.bb.RAPID.realigned.bam
+realigned/SARN0508.bb.RAPID.realigned.bam
+realigned/WALE0408.bb.RAPID.realigned.bam
